@@ -2,12 +2,17 @@
 
 ```java
 // A little bit about Lucas
+
+public class Lucas {
+  public static void main(String[] args) {
+  }
+}
 ```
 
 <details>
   <summary>
     <strong>
-      PROJECTS
+      𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂
     </strong>
   </summary>
   
