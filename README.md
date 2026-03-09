@@ -3,8 +3,13 @@
 ```java
 // A little bit about Lucas
 
+interface Dev {
+  String[] stacks = { "" }
+}
+
 public class Lucas {
   public static void main(String[] args) {
+    Lucas me = new Lucas();
   }
 }
 ```
