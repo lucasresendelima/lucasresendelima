@@ -4,10 +4,12 @@
 // A little bit about Lucas
 
 interface Dev {
-  String[] stacks = { "" }
+  String[] stacks = { "" };
 }
 
-public class Lucas {
+public class Lucas implements Dev {
+  String almaMater = "";
+  
   public static void main(String[] args) {
     Lucas me = new Lucas();
   }
