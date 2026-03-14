@@ -8,13 +8,16 @@ interface Dev {
 }
 
 public class Lucas implements Dev {
-  String almaMater = "";
+  String almaMater = "FIAP";
   
   public static void main(String[] args) {
     Lucas me = new Lucas();
   }
 }
 ```
+<div>
+  <a href="https://maven.apache.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"/></a>
+</div>
 
 <details>
   <summary>
